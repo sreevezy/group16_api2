@@ -21,7 +21,7 @@ COLLECTION1 = 'Attempts'
 COLLECTION2 = 'Assignments'
 CLUSTER = "mongodb+srv://dev_user:Durham@cluster0.wu3em.mongodb.net/<dbname>?retryWrites=true&w=majority"
 URL = 'localhost:443'
-HTTPS = True
+HTTPS = False
 # password is 'durham'
 
 # BELOW FUNCTIONS ARE OUTDATED
